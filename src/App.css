@@ -1,0 +1,22 @@
+.main_div{
+    background-color: aqua;
+    min-height: 100vh;
+    height: fit-content;
+    text-align: center;
+    margin: auto;
+}
+.center_div{
+    background-color: blue;
+    width: 30rem;
+    height: 30rem;
+    margin: 0;
+    position: absolute;
+    top: 15%;
+    left: 33%;
+    overflow: auto;
+    border-radius: 2rem;
+    box-shadow: gold;
+}
+ul{
+    list-style-type: none;
+}
